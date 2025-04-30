@@ -27,6 +27,10 @@ Learning by doing, building small projects, and enjoying every step of the journ
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/@kalyforgithub)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mmkallil073@gmail.com)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
 
 <!---
 RomanOsetr/RomanOsetr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
